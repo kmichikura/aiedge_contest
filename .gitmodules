@@ -1,0 +1,6 @@
+[submodule "HLS/veriloggen"]
+	path = HLS/veriloggen
+	url = https://github.com/PyHDI/veriloggen.git
+[submodule "HLS/Pyverilog"]
+	path = HLS/Pyverilog
+	url = https://github.com/PyHDI/Pyverilog.git
